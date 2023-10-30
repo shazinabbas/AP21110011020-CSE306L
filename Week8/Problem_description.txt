@@ -1,3 +1,0 @@
-Implementation of LALR parser using LEX and YACC for the following:
-
-Grammar: E → E+E | E-E | E*E | E/E | -E | (E) | NUMBER
